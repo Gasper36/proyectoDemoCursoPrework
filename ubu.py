@@ -1,2 +1,3 @@
 import cowsay
-cowsay.turtle("HELLO")
+cowsay.turtle("Hola Tortuguita")
+cowsay.cow("Hola Vaquita Muuuu")
